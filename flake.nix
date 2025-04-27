@@ -43,8 +43,7 @@
         mooncake = libx.mkDarwin { hostname = "mooncake"; };
 
         # work
-        baldrick = libx.mkDarwin { hostname = "baldrick"; };
-        magrathea = libx.mkDarwin { hostname = "magrathea"; };
+        VQQPYKVW4G = libx.mkDarwin { hostname = "VQQPYKVW4G"; }; # work Macbook
       };
 
       colmena = {
