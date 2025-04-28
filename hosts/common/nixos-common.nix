@@ -3,7 +3,7 @@ let
   inherit (inputs) nixpkgs nixpkgs-unstable;
 in
 {
-  time.timeZone = "America/New_York";
+  time.timeZone = "Europe/London";
   system.stateVersion = stateVersion;
 
   # home-manager = {

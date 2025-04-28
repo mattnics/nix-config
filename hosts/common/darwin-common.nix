@@ -155,13 +155,14 @@ in
       #"AutoMounter" = 1160435653;
       #"Bitwarden" = 1352778147;
       #"Creator's Best Friend" = 1524172135;
-      "DaVinci Resolve" = 571213070;
+      #"DaVinci Resolve" = 571213070?mt=12;
       "Disk Speed Test" = 425264550;
       #"Fantastical" = 975937182;
       #"Ivory for Mastodon by Tapbots" = 6444602274;
       "Home Assistant Companion" = 1099568401;
+      "Display Maid" = 450063525;
       #"Microsoft Remote Desktop" = 1295203466;
-      "Perplexity" = 6714467650;
+      #"Perplexity" = 6714467650;
       #"Resize Master" = 102530679;
       #"rCmd" = 1596283165;
       #"Snippety" = 1530751461;
@@ -171,6 +172,8 @@ in
       #"Todoist" = 585829637;
       #"UTM" = 1538878817;
       #"Wireguard" = 1451685025;
+      "WhatsApp Messenger" = 310633997;
+      "Microsoft - To do " = 1274495053;
 
       #"Final Cut Pro" = 424389933;
 
