@@ -94,7 +94,7 @@ in
       #"clop"
       "discord"
       #"displaylink"
-      #"docker"
+      "docker"
       #"element"
       #"elgato-camera-hub"
       #"elgato-control-center"
